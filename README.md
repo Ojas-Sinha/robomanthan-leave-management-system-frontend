@@ -48,7 +48,7 @@ Reports:
 ## Project Structure
 
 ```
-robomanthan-frontend/
+robomanthan-leave-management-system-frontend/
 ├── app/
 │   ├── login/
 │   ├── employee/
