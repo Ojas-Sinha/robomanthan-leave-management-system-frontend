@@ -7,6 +7,15 @@ const brandFont = Poppins({
   weight: ["600", "700", "800"],
 });
 
+/* ✅ Metadata (App Router way) */
+export const metadata = {
+  title: "Robomanthan Leave Management System",
+  description: "Leave & Employee Management System",
+  icons: {
+    icon: "/logo.png",
+  },
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
