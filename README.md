@@ -47,6 +47,7 @@ Reports:
 
 ## Project Structure
 
+```
 robomanthan-frontend/
 ├── app/
 │   ├── login/
@@ -72,7 +73,7 @@ robomanthan-frontend/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 ---
 
 ## Environment Setup
