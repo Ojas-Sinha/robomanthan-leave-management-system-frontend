@@ -67,8 +67,7 @@ robomanthan-frontend/
 ├── services/
 │   └── auth.js
 ├── utils/
-│   ├── auth.js
-│   └── api.js
+│   └── auth.js
 ├── middleware.js
 ├── package.json
 ├── package-lock.json
